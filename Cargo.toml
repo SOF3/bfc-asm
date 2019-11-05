@@ -1,0 +1,13 @@
+[package]
+name = "bfc"
+version = "0.1.0"
+authors = ["SOFe <sofe2038@gmail.com>"]
+edition = "2018"
+license = "Unlicense"
+repository = "https://github.com/SOF3/bfc-asm"
+homepage = "https://github.com/SOF3/bfc-asm"
+description = "Compile Brainfuck into Assembly (without any optimization)"
+readme = "README.md"
+
+[dependencies]
+structopt = "0.3.3"
