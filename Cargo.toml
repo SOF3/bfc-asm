@@ -10,4 +10,4 @@ description = "Compile Brainfuck into Assembly (without any optimization)"
 readme = "README.md"
 
 [dependencies]
-structopt = "0.3.3"
+structopt = "0.3.4"
